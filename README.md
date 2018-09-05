@@ -17,6 +17,6 @@
 </body>
 </html>
 
-<p <strong><font color="#E227E5">I HAD TO DO IT AGAIN
-   </p> <strong>I MADE MY SECOND SECOND WEBSITE
+<p><font color="#E227E5"><strong>I HAD TO DO IT AGAIN
+   </p><strong>I MADE MY SECOND SECOND WEBSITE
         <p><strong> *INSERT EVIL LAUGH"!!!!!
