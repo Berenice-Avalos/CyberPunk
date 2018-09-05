@@ -1,4 +1,4 @@
-<!doctype html>
+
   <html lang="en">
        <head>
            <meta charset="utf-8">
@@ -11,18 +11,15 @@
          <img src="https://tse4.mm.bing.net/th?id=OIP.3QTALpGhLUNzHDpMUGVFUgHaKe&pid=Api" alt="cyber rain">
       </body> 
   </html>
- <!DOCTYPE html>
+
 <html>
 <body background="https://cdnb.artstation.com/p/assets/images/images/002/648/641/large/roger-matallana-exterior-cyberpunk-final2.jpg?1464096465">
 </body>
 </html>
-<!DOCTYPE html>
-<html>
-<body>
 
-<p strong>I HAD TO DO IT AGAIN</strong></p>
-   </p> <strong>I MADE MY SECOND SECOND WEBSITE</strong><p></p>
-        <strong> *INSERT EVIL LAUGH"!!!!!</strong>
+<p strong>I HAD TO DO IT AGAIN
+   </p> <strong>I MADE MY SECOND SECOND WEBSITE
+        <strong> *INSERT EVIL LAUGH"!!!!!
 
 </body>
 </html>
